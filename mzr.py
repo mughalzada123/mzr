@@ -1,3 +1,0 @@
-import okk
- 
-okk.Main()
